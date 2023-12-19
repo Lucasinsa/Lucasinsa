@@ -23,4 +23,4 @@ I am a frontend developer who loves programming and I am currently studying to b
 </p>
 
 ## More information about me
-You can find me in [LinkedIn](www.linkedin.com/in/lucas-insaurralde-sousa-3646a2262).
+You can find me in [LinkedIn](https://www.linkedin.com/in/lucas-insaurralde-sousa-3646a2262).
