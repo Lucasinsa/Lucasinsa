@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi! I´m Lucas Insaurralde Sousa 👋
+I am a frontend developer who loves programming and I am currently studying to become a fullstack developer.
 
-<!--
-**Lucasinsa/Lucasinsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.🔭 I’m currently working on BackendEcommerce
 
-Here are some ideas to get you started:
+.🌱 I’m currently learning about Backend technologies and Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.📫 How to reach me: lukitasinsa7@gmail.com
+
+## Some technologies and tools
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40" />          
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+<img align="center" src="https://i.pinimg.com/originals/be/d3/0d/bed30ddfa5d434e827c775ac9a3b0d38.jpg" height="40" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40"/>
+</p>
+
+## More information about me
+You can find me in [LinkedIn](www.linkedin.com/in/lucas-insaurralde-sousa-3646a2262).
